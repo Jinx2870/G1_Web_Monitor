@@ -1,0 +1,5 @@
+Flask
+PyYAML
+numpy
+opencv-python
+pyrealsense2
